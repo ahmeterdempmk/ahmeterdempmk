@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [AEXP-base-v0.1](https://github.com/ahmeterdempmk/AEXP-base-v0.1)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Larning**
+- 🌱 I’m currently learning **Machine Learning and Deep Larning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmeterdempmk](https://github.com/ahmeterdempmk)
 
-- 💬 Ask me about **Python, C#**
+- 💬 I'm good at **Python, C#**
 
-- 📫 How to reach me **ahmeterdempmkk@gmail.com**
+- 📫 You can reach me from **ahmeterdempmkk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/ahmet-erdem-pamuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-erdem-pamuk" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmeterdempamuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmeterdempamuk" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmeterdempmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmeterdempmk" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmeterdempmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmeterdempmk" height="30" width="40" /></a>
+<a href="https://medium.com/@ahmeterdempmkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmeterdempmk" height="30" width="40" /></a>
 <a href="https://discord.gg/users/472486824024211456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/472486824024211456" height="30" width="40" /></a>
 </p>
 
