@@ -2,12 +2,15 @@
 
 ## About Me
 
-I'm a 15 years old machine learning and AI developer who is always trying to improve himself.
+I'm a young machine learning and AI developer who is always trying to improve himself. I'm trying to join competitions, trainings, hackathons to improve myself and improve my knowledge.
 
 ## Technologies That I'm Using
-| Jupyter | Kaggle | NumPy | Pandas | Python | TensorFlow | Sklearn | Streamlit |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="100" width="100"> |
+| Python | Jupyter | Kaggle | NumPy | Pandas | TensorFlow | Sklearn | Streamlit | C# | .NET
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100" width="100"> | <img 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="100" width="100"> | <img 
+src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="100" width="100"> | <img 
+src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"> | 
 
 ## Contact
 <a href="https://www.linkedin.com/in/ahmet-erdem-pamuk"><img weight="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
