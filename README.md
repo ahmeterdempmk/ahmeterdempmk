@@ -10,15 +10,9 @@ I'm a young machine learning and AI developer who is always trying to improve hi
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | ![Jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg) | ![Kaggle](https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg) | ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![TensorFlow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg) | ![Sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Streamlit](https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg) | ![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg) | ![.NET](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg) |
 
-<style>
-    .icon {
-        width: 20px; 
-        height: 20px; 
-        vertical-align: middle;
-    }
-</style>
-
 ## Contact
-| LinkedIn | Instagram | Kaggle | Huggingface | Discord | Medium |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" class="icon" alt="LinkedIn Icon"> [LinkedIn](https://www.linkedin.com/in/ahmet-erdem-pamuk) | <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" class="icon" alt="Instagram Icon"> [Instagram](https://www.instagram.com/ahmeterdempmk) | <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" class="icon" alt="Kaggle Icon"> [Kaggle](https://www.kaggle.com/ahmeterdempamuk) | <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" class="icon" alt="Huggingface Icon"> [Huggingface](https://huggingface.co/ahmeterdempmk) | <img src="https://blog.pinwheel.com/hubfs/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" class="icon" alt="Discord Icon"> [Discord](https://discord.com/users/472486824024211456) | <img src="https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png" class="icon" alt="Medium Icon"> [Medium](https://medium.com/@ahmeterdempmk) |
+<a href="https://www.instagram.com/ahmeterdempmk"><img weight="100" height="100" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png"></a>
+<a href="https://www.kaggle.com/ahmeterdempamuk"><img weight="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"></a>
+<a href="https://huggingface.co/ahmeterdempmk"><img weight="100" height="100" src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde"></a>
+<a href="https://discord.com/users/472486824024211456"><img weight="100" height="100" src="https://blog.pinwheel.com/hubfs/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"></a>
+<a href="https://medium.com/@ahmeterdempmk"><img weight="100" height="100" src="https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png"></a>
