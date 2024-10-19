@@ -8,7 +8,7 @@ I am a young developer trying to develop myself in machine learning/deep learnin
 
 Feel free to reach out via email [to me](mailto:ahmeterdempmkk@gmail.com)
 
-<a href="https://www.linkedin.com/in/ahmet-erdem-pamuk"><img weight="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/ahmet-erdem-pamuk"><img weight="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
 <a href="https://www.instagram.com/ahmeterdempmk"><img weight="100" height="100" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png"></a>
 <a href="https://www.kaggle.com/ahmeterdempamuk"><img weight="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"></a>
 <a href="https://huggingface.co/ahmeterdempmk"><img weight="100" height="100" src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde"></a>
