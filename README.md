@@ -9,7 +9,7 @@ As a young aspiring data scientist who has always been interested in computers a
 Feel free to reach out via email [to me](mailto:ahmeterdempmkk@gmail.com)
 
 <a href="https://www.linkedin.com/in/ahmet-erdem-pamuk"><img weight="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://www.instagram.com/ahmeterdempmk"><img weight="100" height="100" src="https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg"></a>
+<a href="https://www.instagram.com/ahmeterdempmk"><img weight="100" height="100" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"></a>
 <a href="https://www.kaggle.com/ahmeterdempamuk"><img weight="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"></a>
 <a href="https://huggingface.co/ahmeterdempmk"><img weight="100" height="100" src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde"></a>
 <a href="https://discord.com/users/472486824024211456"><img weight="100" height="100" src="https://blog.pinwheel.com/hubfs/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"></a>
