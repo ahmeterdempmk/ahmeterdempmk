@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a young developer trying to develop myself in machine learning/deep learning, natural language processing and LLMs. In this context, I participate in various competitions, hackathons and bootcamps.
+As a young aspiring data scientist who has always been interested in computers and electronics, I strive to learn something new every day. In this context I am doing different works. I develop projects in languages like Python, C#, C. I have a great interest in data science and work on Machine Learning/Deep Learning as well as LLMs and LLMOps. I want to be a successful engineer in the future and I am working towards it.
 
 ## Contact 
 
