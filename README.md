@@ -10,7 +10,6 @@ Feel free to reach out via email [to me](mailto:ahmeterdempmkk@gmail.com).
 <a href="https://www.instagram.com/ahmeterdempmk"><img width="100" height="100" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"></a>
 <a href="https://www.kaggle.com/ahmeterdempamuk"><img width="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"></a>
 <a href="https://huggingface.co/ahmeterdempmk"><img width="100" height="100" src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde"></a>
-<a href="https://discord.com/users/472486824024211456"><img width="100" height="100" src="https://blog.pinwheel.com/hubfs/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"></a>
 
 ## Technologies That I'm Using
 | Python | NumPy | Pandas | TensorFlow | Sklearn | Streamlit | C# | .NET |
