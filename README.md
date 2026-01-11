@@ -1,1 +1,1 @@
-## currently building AGT @ MotionShark
+## Building AGT @ MotionShark
