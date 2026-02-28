@@ -1,1 +1,1 @@
-## Building AGT @ MotionShark
+Researcher focused on natural language processing, agentic LLMs, multi-agent systems, and voice AI. Building production conversational agents and exploring quantum-inspired optimization for ML. ICLR 2026 DeLTa Workshop reviewer. Work spans LLM evaluation, SAT/edtech AI (MotionShark), chess AI (Piyonist), and medical/vision pipelines (TEKNOFEST). Papers at IEEE QAI and Preprints; Kaggle & DataMedX placements. Based in Ankara.
