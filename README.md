@@ -1,1 +1,7 @@
-Researcher focused on natural language processing, agentic LLMs, multi-agent systems, and voice AI. Building production conversational agents and exploring quantum-inspired optimization for ML. ICLR 2026 DeLTa Workshop reviewer. Work spans LLM evaluation, SAT/edtech AI (MotionShark), chess AI (Piyonist), and medical/vision pipelines (TEKNOFEST). Papers at IEEE QAI and Preprints; Kaggle & DataMedX placements. Based in Ankara.
+16 🇹🇷, Research Engineer @ [MotionShark](https://motionshark.com) 
+
+Prev:
+- Papers @ IEEE [QAI](https://qai2025.unina.it/) '25 & [WCCI](https://attend.ieee.org/wcci-2026/) ’26
+- Reviewer @ [ICLR](https://iclr.cc/) '26 & [ICML](https://icml.cc/) '26
+
+I like to train multimodal AI systems.
