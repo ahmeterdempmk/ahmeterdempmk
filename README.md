@@ -1,4 +1,8 @@
-16 🇹🇷, Member of Technical Staff @ [Freya](https://freyavoice.ai) ([YC](https://ycombinator.com) [S25](https://www.ycombinator.com/companies/freya))
+17 🇹🇷, Member of Technical Staff @ [Freya](https://freyavoice.ai) ([YC](https://ycombinator.com) [S25](https://www.ycombinator.com/companies/freya))
+
+Some highlights:
+- Led the R&D of [Adam & Eve](https://www.freyavoice.ai/tts), ranked #1 on [Design Arena AudioRealismBench](https://www.designarena.ai/leaderboard?tab=audio&section=tts&board=audiorealismbench).
+- First-authored [FreyaTTS-small](https://arxiv.org/abs/2607.09530), the first open-weight Turkish TTS trained from scratch, 
 
 Prev:
 - Member of Team Türkiye @ [European Olympiad in Artificial Intelligence 2026](https://euroai-official.org)
